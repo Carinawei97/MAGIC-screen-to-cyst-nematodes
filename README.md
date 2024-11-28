@@ -61,8 +61,8 @@ R
 How to Use
 
 	1.	Clone the repository:
- git clone https://github.com/Carinawei97/MAGIC-screen-to-cyst-namtatodes.git
- cd MAGIC-screen-to-cyst-namtatodes
+ git clone https://github.com/Carinawei97/MAGIC-screen-to-cyst-nematodes.git
+ cd MAGIC-screen-to-cyst-nematodes
 
  	2.	Explore the Python and R directories to access the scripts:
 	•	Python scripts for imaging tower control and QR code handling.
@@ -73,9 +73,9 @@ Contact
 
 If you have any questions or suggestions regarding the code, please open an issue or contact me via GitHub. I’m happy to collaborate or assist.
 
-Acknowledgments
+Acknowledgements
 
-This work was developed as part of my PhD thesis under the guidance of [Supervisor’s Name] and with contributions from [Colleagues’ Names]. Thank you for their support and feedback throughout this project.
+This work was developed as part of my PhD thesis under the guidance of Sebastian Eves-van de Akker and with contributions from Olaf kranse and Lab of Zhou. Thank you for your support and feedback throughout this project.
 
 License
 
