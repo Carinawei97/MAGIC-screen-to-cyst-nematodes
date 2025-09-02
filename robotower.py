@@ -9,15 +9,12 @@ to run; python robotower.py
 '''
 List of machine names:
 
-Baymax -- Big hero 6
-Lilo -- Lilo & Stitch
-Goofy -- Ducktales
-Jasmine -- Aladin
-Sebastian -- Little Mermaid
-EVE -- WALL-E
-Mike Wazowski -- Monsters, Inc.
-Woody -- Toy Story
-Carl -- Up
+Baymax 
+Lilo 
+Goofy 
+Jasmine 
+Sebastian
+EVE 
 
 '''
 
