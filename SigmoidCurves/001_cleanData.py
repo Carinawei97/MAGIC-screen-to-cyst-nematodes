@@ -480,7 +480,7 @@ path = r'/media/o/LabBookMirror2/backup/MainOld/Main1/Siyuan/AnalysisJi/scriptsO
 
 os.chdir(path)
 
-merged_df.to_csv('38dpi_Denoised_traitsCleanedpypy.csv')
+merged_df.to_csv('Merged_Cleaned_outlier_data.csv')
 
 
 
