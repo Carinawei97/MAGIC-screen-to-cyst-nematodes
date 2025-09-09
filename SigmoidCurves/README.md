@@ -43,11 +43,11 @@ Date,ID 1,ID 2,ID 3,ID 4,ID 5,ID 6
 
 ### To run:
 
-Adjust line x to the path where your data is located
+Adjust line ` path = ... ` to the path where your data is located
 
 Then
 
-`python3 x.py`
+`python3 001_cleanData.py`
 
 ## Sigmoid fitting
 
