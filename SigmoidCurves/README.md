@@ -56,8 +56,8 @@ Then
 
 ## Sigmoid fitting
 
-The output xxx of x.py is the input file for y.py
+The output ` Merged_Cleaned_outlier_data.csv ` of ` 002_sigmoidFit.py ` is the input file for y.py
 
 To run:
 
-`python y.py`
+`python 002_sigmoidFit.py`
