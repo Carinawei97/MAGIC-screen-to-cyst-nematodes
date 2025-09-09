@@ -1,10 +1,15 @@
 # Requirements:
 
 Python 3.13.5
+
 scipy           1.16.1
+
 pandas          2.3.2
+
 matplotlib      3.10.6
+
 numpy           2.3.2
+
 
 # OS
 
