@@ -14,9 +14,10 @@ Repository structure (excerpt)
 │       ├── tools/
 │       ├── predict.ipynb        # Example notebook for inference
 │       └── ...
-├── Nema_SAM/
+├── Nematode traits analysis/
 │   └── ...                      # Nema-SAM and trait analysis scripts/notebooks
 └── README.md
+
 
 
 # Requirements:
