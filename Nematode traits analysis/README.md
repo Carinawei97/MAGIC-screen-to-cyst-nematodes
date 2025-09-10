@@ -88,7 +88,7 @@ pip install 'git+https://github.com/facebookresearch/segment-anything.git'
 # and update the script/notebook paths accordingly.)
 ```
 
-If a `requirements.txt` file is provided under the Nema-SAM folder, install with:
+Their is a `requirements.txt` file is provided under the Nema-SAM folder, install with:
 
 ```bash
 pip install -r requirements.txt
@@ -106,6 +106,18 @@ conda activate boxinst_env
 
 # 2) Enter AdelaiDet directory
 cd BoxInst/AdelaiDet-master
+
+# 3) Start Jupyter
+jupyter notebook
+```
+
+To run nematode instance mask refine with **Nema-SAM**:
+```bash
+# 1) Activate Nema-SAM environment
+conda activate nemasam_env
+
+# 2) Enter Nema-SAM directory
+cd Nema-SAM
 
 # 3) Start Jupyter
 jupyter notebook
