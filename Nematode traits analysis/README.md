@@ -1,4 +1,4 @@
-# MAGIC-screen-to-cyst-nematodes — Nematode Traits Analysis
+# Nematode Traits Analysis
 
 This repository provides the full workflow for nematode trait analysis, combining **BoxInst (Detectron2 + AdelaiDet)** for detection and **Nema-SAM** for instance segmentation and trait extraction.
 
