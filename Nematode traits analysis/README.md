@@ -16,7 +16,7 @@ Please install PyTorch and Detectron2 versions that are compatible with your loc
 │       ├── tools/
 │       ├── predict.ipynb        # Example notebook for inference
 │       └── ...
-├── Nematode traits analysis/
+├── Nema-SAM/
 │   └── ...                      # Nema-SAM and trait analysis scripts/notebooks
 └── README.md
 ```
