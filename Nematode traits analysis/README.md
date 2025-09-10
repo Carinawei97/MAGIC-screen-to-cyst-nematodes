@@ -5,6 +5,7 @@ It is strongly recommended to create two separate Python environments: one for B
 Please install PyTorch and Detectron2 versions that are compatible with your local CUDA setup. For machines without GPU, a CPU version can be installed (with slower inference speed).
 
 Repository structure (excerpt)
+
 .
 ├── BoxInst/
 │   └── AdelaiDet-master/
@@ -17,7 +18,6 @@ Repository structure (excerpt)
 ├── Nematode traits analysis/
 │   └── ...                      # Nema-SAM and trait analysis scripts/notebooks
 └── README.md
-
 
 
 # Requirements:
