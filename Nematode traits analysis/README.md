@@ -81,11 +81,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 # 3) Common dependencies
 pip install opencv-python scikit-image scipy numpy matplotlib tqdm jupyter
 
-# 4) Install Segment Anything (SAM)
-pip install 'git+https://github.com/facebookresearch/segment-anything.git'
-
-# (Make sure to download the required SAM model weights, e.g., sam_vit_h_4b8939.pth,
-# and update the script/notebook paths accordingly.)
 ```
 
 Their is a `requirements.txt` file is provided under the Nema-SAM folder, install with:
