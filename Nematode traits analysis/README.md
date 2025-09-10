@@ -169,15 +169,13 @@ If you use this repository in your research, please cite the relevant works (Box
   howpublished={https://github.com/aim-uofa/AdelaiDet}
 }
 
-@article{kirillov2023segment,
-  title={Segment Anything},
-  author={Kirillov, Alexander and others},
+@article{Zhao2023segment,
+  title={Fast Segment Anything},
+  author={Xu Zhao, Wenchao Ding and others},
   year={2023}
 }
 ```
 
 ---
 
-## License
 
-Please specify your license (e.g., MIT, Apache-2.0). Note that external libraries have their own licenses.
