@@ -1,5 +1,24 @@
+# OS
 
+Tested on Debian 13.
 
+# Python Env
+
+numpy 2.2.6
+
+opencv-python 4.12.0.88
+
+pillow 11.3.0
+
+pyzbar 0.1.9
+
+# To run
+
+Download the test files, and adjust the path in the `rename.py` script
+
+Then run:
+
+`python3 rename.py`
 
 # Test files
 
