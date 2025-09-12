@@ -5,9 +5,13 @@ Tested on Windwos 11. Arial font was included in Windows, this may be changed as
 # Software
 
 numpy         2.2.6
+
 opencv-python 4.12.0.88
+
 pillow        11.3.0
+
 pyzbar        0.1.9
+
 
 # Testing of script
 
