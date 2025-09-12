@@ -112,7 +112,7 @@ Please through Releases to get the model for nematode detection
 Through the Test folder to get the test image
 ```
 
-Open and run **`predict.ipynb`** in the browser:
+Open and run **`/BoxInst/AdelaiDet-master/predict.ipynb`** in the browser:
 
 - **Config file**: set the YAML config (`/BoxInst/AdelaiDet-master/training_dir/config.yaml`).  
 - **Weights**: specify the trained `.pth` model file in `MODEL.WEIGHTS`. The weight is in the Releases.
