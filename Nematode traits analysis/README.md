@@ -126,10 +126,9 @@ jupyter notebook
 
 Open and run **`predict.ipynb`** in the browser:
 
-- **Config file**: set the YAML config (e.g., `configs/BoxInst/MS_R_50_1x.yaml` or your custom file).  
-- **Weights**: specify the pre-trained or trained `.pth` model file in `MODEL.WEIGHTS`.  
-- **Input/Output**: define input images or directories and output folder paths.  
-- **Run cells**: execute step by step to obtain detection results (images, JSON, or CSV depending on implementation).
+- **Config file**: set the YAML config (`/BoxInst/AdelaiDet-master/training_dir/config.yaml`).  
+- **Weights**: specify the trained `.pth` model file in `MODEL.WEIGHTS`. The weight is in the Releases.
+- **Input/Output**: define input images or directories and output folder paths.
 
 ---
 
