@@ -14,7 +14,7 @@ pyzbar 0.1.9
 
 # To run
 
-Download the test files, and adjust the path in the `rename.py` script
+Download the test files, and adjust the path in the `rename.py` script.
 
 Then run:
 
