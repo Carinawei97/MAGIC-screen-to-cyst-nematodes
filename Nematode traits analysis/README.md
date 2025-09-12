@@ -104,6 +104,12 @@ cd BoxInst/AdelaiDet-master
 
 # 3) Start Jupyter
 jupyter notebook
+
+# 4）Download the model of BoxInst
+Please through Releases to get the model for nematode detection
+
+# 5) Get the test image
+Through the Test folder to get the test image
 ```
 
 To run nematode instance mask refine with **Nema-SAM**:
