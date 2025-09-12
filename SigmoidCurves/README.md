@@ -10,6 +10,9 @@ matplotlib      3.10.6
 
 numpy           2.3.2
 
+# Test files
+
+To test the script, three example folders are provided, `1;1;1;3;159;01`, `1;1;1;4;353;01`, `1;1;1;5;452;01`. Download these, and place into one folder. Adjust the path as shown below to parent folder.
 
 # OS
 
