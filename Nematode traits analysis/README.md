@@ -16,7 +16,7 @@ This repository provides the full workflow for nematode trait analysis, combinin
 │   └── AdelaiDet-master/
 │       ├── configs/
 │       ├── adet/                # AdelaiDet source
-│       ├── detectron2/          # Detectron2 (if cloned as submodule/source)
+│       ├── detectron2/          # Detectron2
 │       ├── tools/
 │       ├── predict.ipynb        # Example notebook for inference
 │       └── ...
