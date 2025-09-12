@@ -142,7 +142,7 @@ Open and run **`predict.ipynb`** in the browser:
 
 ## Citation
 
-If you use this repository in your research, please cite the relevant works (BoxInst, Detectron2, AdelaiDet, SAM, and your own publication). Example:
+If you use this repository in your research, please cite the relevant works (BoxInst, Detectron2, AdelaiDet, SAM):
 
 ```bibtex
 @inproceedings{tian2020boxinst,
