@@ -112,6 +112,12 @@ Please through Releases to get the model for nematode detection
 Through the Test folder to get the test image
 ```
 
+Open and run **`predict.ipynb`** in the browser:
+
+- **Config file**: set the YAML config (`/BoxInst/AdelaiDet-master/training_dir/config.yaml`).  
+- **Weights**: specify the trained `.pth` model file in `MODEL.WEIGHTS`. The weight is in the Releases.
+- **Input/Output**: define input images or directories and output folder paths.
+
 To run nematode instance mask refine with **Nema-SAM**:
 ```bash
 # 1) Activate Nema-SAM environment
@@ -124,11 +130,6 @@ cd Nema-SAM
 jupyter notebook
 ```
 
-Open and run **`predict.ipynb`** in the browser:
-
-- **Config file**: set the YAML config (`/BoxInst/AdelaiDet-master/training_dir/config.yaml`).  
-- **Weights**: specify the trained `.pth` model file in `MODEL.WEIGHTS`. The weight is in the Releases.
-- **Input/Output**: define input images or directories and output folder paths.
 
 ---
 
