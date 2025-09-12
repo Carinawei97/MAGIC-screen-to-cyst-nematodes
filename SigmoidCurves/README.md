@@ -20,7 +20,7 @@ Should work on any OS that has python and pip, tested on Debain 13.
 
 # Scripts
 
-Fitting curves has two steps; 1) data filtering, 2) Curve Fitting.
+Fitting curves has two steps; 1) Data filtering, 2) Curve Fitting.
 
 ## Data filtering
 
