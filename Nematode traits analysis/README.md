@@ -130,6 +130,10 @@ cd Nema-SAM
 jupyter notebook
 ```
 
+Open and run **`predict.ipynb`** in the browser:
+
+- **Weights**: specify the trained `.pth` model file in `MODEL.WEIGHTS`. The weight is in the Releases.
+- **Input/Output**: define input images or directories and output folder paths.
 
 ---
 
