@@ -47,7 +47,7 @@ The Nema-SAM model is provided in the **[Releases](https://github.com/Carinawei9
 The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode segmentation and trait extraction.
 
 ### Input
-- A **single cropped nematode image** detected by **BoxInst** (i.e., the bounding box region extracted from the detection stage).
+- A **single cropped nematode image** detected by **BoxInst**.
 
 ### Output
 - A **refined instance mask** of the nematode.  
@@ -67,8 +67,15 @@ The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode s
 
 ---
 
+## 4. Batch Prediction Workflow
+
+The notebook **`batch_predict.ipynb`** demonstrates how to run Nema-SAM for nematode segmentation and trait extraction.
+
+### Input
+
 ## Notes
 - Ensure BoxInst detection is run **before** Nema-SAM (input images should already be cropped around individual nematodes).  
+
 
 
 
