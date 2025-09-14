@@ -143,6 +143,8 @@ Open and run **`predict.ipynb`** in the browser:
     <img src="Test/1;1;1;23;510;01/1;1;1;23;510;01_2022-05-12_08_51_42.527516_Lilo.png" width="800" >
 </div>
 
+# 1) Crop the image into 12 parts
+
 
 
 ## FAQ
