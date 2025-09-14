@@ -141,7 +141,6 @@ Open and run **`predict.ipynb`** in the browser:
 
 Please download the 
 
-
 ## FAQ
 
 - **Detectron2 install fails?**  
