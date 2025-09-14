@@ -38,7 +38,7 @@ The Nema-SAM model is provided in the **[Releases](https://github.com/Carinawei9
 
 1. Go to the [Releases page](https://github.com/Carinawei97/MAGIC-screen-to-cyst-nematodes/releases).  
 2. Download the file named **`Nema-SAM`**.  
-3. Place it in the appropriate directory (update the path in `predict.ipynb` if needed).  
+3. Place it in the appropriate directory (update the path in `predict.ipynb`).  
 
 ---
 
@@ -70,8 +70,9 @@ The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode s
 
 ## Notes
 - Ensure BoxInst detection is run **before** Nema-SAM (input images should already be cropped around individual nematodes).  
-- Confidence values can be used to filter out uncertain predictions.  
-- For batch inference, you can adapt the notebook code to loop through a folder of images.  
+
+
+
 
 
 
