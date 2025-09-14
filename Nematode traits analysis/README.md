@@ -109,7 +109,7 @@ jupyter notebook
 Please through Releases to get the model for nematode detection
 
 # 5) Get the test image
-Through the Test folder to get the test image
+Through the 'Test' folder to get the test image
 ```
 
 Open and run **`/BoxInst/AdelaiDet-master/predict.ipynb`** in the browser:
