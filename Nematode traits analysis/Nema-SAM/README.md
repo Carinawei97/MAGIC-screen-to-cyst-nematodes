@@ -62,7 +62,6 @@ The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode s
 2. Modify the following paths inside the notebook:
    - `MODEL_PATH`: path to the downloaded Nema-SAM weights.  
    - `INPUT_PATH`: path to the cropped nematode image (from BoxInst).  
-   - `OUTPUT_PATH`: directory for saving results.  
 3. Run all cells step by step.  
 4. The output will include the segmented mask and associated confidence.  
 
@@ -70,6 +69,7 @@ The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode s
 
 ## Notes
 - Ensure BoxInst detection is run **before** Nema-SAM (input images should already be cropped around individual nematodes).  
+
 
 
 
