@@ -140,7 +140,7 @@ Open and run **`predict.ipynb`** in the browser:
 ## Run a test image
 
 <div align="center">
-    <img src="Test/1;1;1;23;510;01/1;1;1;23;510;01_2022-05-12_08_51_42.527516_Lilo.png" width="1000" >
+    <img src="Test/1;1;1;23;510;01/1;1;1;23;510;01_2022-05-12_08_51_42.527516_Lilo.png" width="800" >
 </div>
 
 
