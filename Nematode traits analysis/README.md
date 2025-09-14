@@ -147,7 +147,9 @@ Open and run **`predict.ipynb`** in the browser:
 - **2) Run the `predict.ipynb` file in the `/BoxInst/AdelaiDet-master` folder**
 - **3) Run the `predict.ipynb` file in the `/BoxInst/AdelaiDet-master` folder**  
 
-
+<div align="center">
+    <img src="Test/1;1;1;23;510;01/2022-05-12.png" width="800" >
+</div>
 
 ## FAQ
 
