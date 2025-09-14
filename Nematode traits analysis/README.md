@@ -144,7 +144,8 @@ Open and run **`predict.ipynb`** in the browser:
 </div>
 
 - **1) Crop the image into 12 parts**
-- **2) Run the predict.ipynb in the `/BoxInst/AdelaiDet-master` folder**  
+- **2) Run the `predict.ipynb` file in the `/BoxInst/AdelaiDet-master` folder**
+- **3) Run the `predict.ipynb` file in the `/BoxInst/AdelaiDet-master` folder**  
 
 
 
