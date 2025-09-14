@@ -69,12 +69,28 @@ The notebook **`predict.ipynb`** demonstrates how to run Nema-SAM for nematode s
 
 ## 4. Batch Prediction Workflow
 
-The notebook **`batch_predict.ipynb`** demonstrates how to run Nema-SAM for nematode segmentation and trait extraction.
+The notebook **`batch_predict.ipynb`** demonstrates how to run Nema-SAM on **multiple nematode images in a folder**.
 
 ### Input
+- A **directory of cropped nematode images** (all previously detected by BoxInst).
+
+### Output
+- Refined masks of the nematodes.
+
+### Usage
+1. Open the notebook:
+   ```bash
+   jupyter notebook batch_predict.ipynb
+   ```
+2. Modify the following parameters:
+   - `MODEL_PATH`: path to the downloaded Nema-SAM weights.
+   - `benchmark_path`: path to get the benchmark.
+   - `INPUT_DIR`: folder containing cropped nematode images.
+   - `benchmark_output_csv`: csv containing the location of the nematode (the location is based on the benchmark).
 
 ## Notes
 - Ensure BoxInst detection is run **before** Nema-SAM (input images should already be cropped around individual nematodes).  
+
 
 
 
