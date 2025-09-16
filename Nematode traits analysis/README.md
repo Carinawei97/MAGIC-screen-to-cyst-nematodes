@@ -143,11 +143,10 @@ Open and run **`predict.ipynb`** in the browser:
     <img src="Test/1;1;1;23;510;01/1;1;1;23;510;01_2022-05-12_08_51_42.527516_Lilo.png" width="800" >
 </div>
 
-- **1) Run the `Image_Preprocessing.ipynb` file to perform image calibration**
-- **2) Crop the image into 12 parts**
-- **3) Run the `predict` file in the `/BoxInst/AdelaiDet-master` folder to detect the nematode object**
-- **4) Run the `predict` file in the `/Nema-SAM` folder to refine the mask of the detected nematodes and obtain the final mask for trait analysis**
-- **5) Using the `Trait_analysis.py` file to obtain the traits of the nematode in the series.**
+- **1) Crop the image into 12 parts**
+- **2) Run the `predict` file in the `/BoxInst/AdelaiDet-master` folder to detect the nematode object**
+- **3) Run the `predict` file in the `/Nema-SAM` folder to refine the mask of the detected nematodes and obtain the final mask for trait analysis**
+- **4) Using the `Trait_analysis.py` file to obtain the traits of the nematode in the series.**
 
 <div align="center">
     <img src="Test/1;1;1;23;510;01/2022-05-12.png" width="800" >
