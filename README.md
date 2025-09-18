@@ -1,6 +1,6 @@
-Scripts for PhD Thesis: [AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]
+Scripts for the manuscript: [AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]
 
-Welcome to the repository for the scripts used in my PhD thesis, ”[AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]”. This repository contains code written in Python and R for various tasks, including controlling an imaging tower, working with QR codes, statistical modeling using the BLUES model, and data visualization.
+Welcome to the repository for the scripts used in our manuscript, ”[AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]”. This repository contains code written in Python and R for various tasks, including controlling an imaging tower, working with QR codes, deep-learning model Fast-nema for nematode capture ,statistical modeling using the BLUES model, and data visualisation.
 
 Table of Contents
 
@@ -14,12 +14,13 @@ Table of Contents
 
 Project Description
 
-This repository includes the scripts developed for my PhD research, focusing on [brief description of your thesis, e.g., automated imaging, data analysis, and statistical modeling]. The scripts were used for:
+This repository includes the scripts developed for my our manuscript, focusing on the 3D printed and Deep-learning powered high-throughput phenotyping platform to automatic capture the nematode-centric phenotype capture. The scripts were used for:
 
 	•	Controlling a custom-built imaging tower.
 	•	Reading, storing, and generating QR codes.
+ 	•	The deep-learning model Fast-nema for recognising nematode phenotypes: including number, size, shape, colour.
 	•	Implementing the BLUES model for pairwise comparisons.
-	•	Creating publication-quality visualizations.
+	•	Creating publication-quality visualisations.
 
 These scripts were developed in collaboration with my supervisor and colleagues.
 
@@ -37,7 +38,7 @@ R Scripts
 
 	1.	Statistical Modeling:
 	•	Implementation of the BLUES model for pairwise comparisons.
-	2.	Visualization:
+	2.	Visualisation:
 	•	Scripts for plotting data and creating publication-ready figures.
 
 Dependencies
