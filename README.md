@@ -1,6 +1,6 @@
-Scripts for the manuscript: [AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]
+Scripts for the manuscript: [3D printing and deep learning enable holistic and dynamic analyses of tens of thousands of parasites infecting hundreds of genotypes]
 
-Welcome to the repository for the scripts used in our manuscript, ”[AI-powered holistic and dynamic plant-pathology to deliver new sources of resistance]”. This repository contains code written in Python and R for various tasks, including controlling an imaging tower, working with QR codes, deep-learning model Fast-nema for nematode capture ,statistical modeling using the BLUES model, and data visualisation.
+Welcome to the repository for the scripts used in our manuscript, "3D printing and deep learning enable holistic and dynamic analyses of tens of thousands of parasites infecting hundreds of genotypes”. This repository contains code written in Python and R for various tasks, including controlling an imaging tower, working with QR codes, deep-learning model Fast-nema for nematode capture ,statistical modeling using the BLUES model, and data visualisation, as well as STL files for 3D printing. This workshop was developmed by Siyuan Wei, Jie Zhou, Olaf Kranse, and Sebastian, Eves-van den Akker.
 
 Table of Contents
 
@@ -14,7 +14,7 @@ Table of Contents
 
 Project Description
 
-This repository includes the scripts developed for my our manuscript, focusing on the 3D printed and Deep-learning powered high-throughput phenotyping platform to automatic capture the nematode-centric phenotype capture. The scripts were used for:
+This repository includes the scripts developed for my our manuscript, focusing on the 3D printed and Deep-learning powered high-throughput phenotyping platform to automatic capture of the nematode-centric phenotypes. The scripts were used for:
 
 	•	Controlling a custom-built imaging tower.
 	•	Reading, storing, and generating QR codes.
@@ -40,6 +40,8 @@ R Scripts
 	•	Implementation of the BLUES model for pairwise comparisons.
 	2.	Visualisation:
 	•	Scripts for plotting data and creating publication-ready figures.
+
+STL files: for 3D printing the automatic imaging machine.
 
 Dependencies
 
@@ -76,7 +78,7 @@ If you have any questions or suggestions regarding the code, please open an issu
 
 Acknowledgements
 
-This work was developed as part of my PhD thesis under the guidance of Sebastian Eves-van de Akker and with contributions from Olaf kranse and Lab of Zhou. Thank you for your support and feedback throughout this project.
+This work was developed as part of the manuscript under the guidance of Sebastian Eves-van de Akker and with contributions from Olaf kranse and Jie Zhou. Thank you for your support and feedback throughout this project.
 
 License
 
