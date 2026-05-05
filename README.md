@@ -2,7 +2,7 @@ Scripts for the manuscript: [3D printing and deep learning enable holistic and d
 
 Welcome to the repository for the scripts used in our manuscript, "3D printing and deep learning enable holistic and dynamic analyses of tens of thousands of parasites infecting hundreds of genotypes”. This repository contains code written in Python and R for various tasks, including controlling an imaging tower, working with QR codes, deep-learning model Fast-nema for nematode capture ,statistical modeling using the BLUES model, and data visualisation, as well as STL files for 3D printing. This workshop was developmed by Siyuan Wei, Jie Zhou, Olaf Kranse, and Sebastian, Eves-van den Akker.
 
-Table of Contents
+# Table of Contents
 
 	1.	Project Description
 	2.	Scripts Overview
@@ -12,7 +12,7 @@ Table of Contents
 	6.	Acknowledgments
 	7.	License
 
-Project Description
+# Project Description
 
 This repository includes the scripts developed for my our manuscript, focusing on the 3D printed and Deep-learning powered high-throughput phenotyping platform to automatic capture of the nematode-centric phenotypes. The scripts were used for:
 
@@ -24,9 +24,9 @@ This repository includes the scripts developed for my our manuscript, focusing o
 
 These scripts were developed in collaboration with my supervisor and colleagues.
 
-Scripts Overview
+# Scripts Overview
 
-Python Scripts
+## Python Scripts
 
 	1.	Imaging Tower Control:
 	•	Scripts for controlling the hardware and capturing images.
@@ -34,20 +34,20 @@ Python Scripts
 	•	Generating QR codes for labeling samples.
 	•	Reading and storing information from QR codes.
 
-R Scripts
+## R Scripts
 
 	1.	Statistical Modeling:
 	•	Implementation of the BLUES model for pairwise comparisons.
 	2.	Visualisation:
 	•	Scripts for plotting data and creating publication-ready figures.
 
-STL files: for 3D printing the automatic imaging machine.
+## STL files: for 3D printing the automatic imaging machine.
 
-Dependencies
+# Dependencies
 
 Make sure you have the following software and libraries installed:
 
-Python
+## Python
 
 	•	numpy
 	•	opencv-python
@@ -55,13 +55,13 @@ Python
 	•	pandas
 	•	Other dependencies (list specific libraries used in your scripts).
 
-R
+## R
 
 	•	ggplot2
 	•	lme4 (if used for BLUES model)
 	•	Other required packages.
 
-How to Use
+## How to Use
 
 	1.	Clone the repository:
  git clone https://github.com/Carinawei97/MAGIC-screen-to-cyst-nematodes.git
@@ -72,21 +72,21 @@ How to Use
 	•	R scripts for modeling and plotting.
 	3.	Follow comments in each script for usage details. If you have any questions, feel free to reach out!
 
-Contact
+# Contact
 
 If you have any questions or suggestions regarding the code, please open an issue or contact me via GitHub. I’m happy to collaborate or assist.
 
-Acknowledgements
+# Acknowledgements
 
 This work was developed as part of the manuscript under the guidance of Sebastian Eves-van de Akker and with contributions from Olaf kranse and Jie Zhou. Thank you for your support and feedback throughout this project.
 
-License
+# License
 
 This project is licensed under the GNU General Public License v3.0.
 
 You are free to use, modify, and distribute this code under the terms of the GPL v3.0 license. For more details, please refer to the LICENSE file included in this repository or visit the GNU GPL v3.0 for the full text of the license.
 
-Adding the LICENSE File
+# Disclaimer
 
-To make your repository fully compliant with the GNU GPL v3.0, create a file named LICENSE in your repository root and add the full text of the GPL v3.0. You can copy the text from this link.
+LLMs were used in some of the development of this project.
  
