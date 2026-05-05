@@ -63,9 +63,9 @@ Make sure you have the following software and libraries installed:
 
 ## How to Use
 
-	1.	Clone the repository:
- git clone https://github.com/Carinawei97/MAGIC-screen-to-cyst-nematodes.git
- cd MAGIC-screen-to-cyst-nematodes
+	1.	Clone the repository: 
+	
+	`git clone https://github.com/Carinawei97/MAGIC-screen-to-cyst-nematodes.git && cd MAGIC-screen-to-cyst-nematodes`
 
  	2.	Explore the Python and R directories to access the scripts:
 	•	Python scripts for imaging tower control and QR code handling.
